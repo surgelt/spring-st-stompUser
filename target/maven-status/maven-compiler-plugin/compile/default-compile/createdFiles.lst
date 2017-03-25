@@ -1,0 +1,13 @@
+spittr\SpittleFeedServiceImpl.class
+spittr\SpittleRepository.class
+spittr\Spittle.class
+spittr\SpittrMessageController.class
+spittr\Notification.class
+spittr\WebSocketStompConfig.class
+spittr\SpittleForm.class
+spittr\NaiveMapBasedSpittleRepository.class
+spittr\WebInitializer.class
+spittr\SecurityWebInitializer.class
+spittr\SpittleFeedService.class
+spittr\SecurityConfig.class
+spittr\WebConfig.class
